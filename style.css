@@ -77,7 +77,8 @@ header img{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background: black;
+    background: url(images/Space\ Travel\ Loop\ GIF\ by\ xponentialdesign.gif);
+    background-size: cover;
     height: 300px;
     color: white;
 }
@@ -172,4 +173,5 @@ header img{
     background: black;
     color: white;
 }
+
 
