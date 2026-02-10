@@ -126,7 +126,7 @@ header img{
     height: 50px;
 }
 .volunteer{
-    background: blueviolet;
+    background: black;
     color:white;
     display: flex;
     flex-direction: column;
@@ -146,8 +146,8 @@ header img{
     
 }
 .edu{
-    background: royalblue;
-    color:white;
+    background: white;
+    color: black;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -187,6 +187,7 @@ header img{
 ;
     
 }
+
 
 
 
