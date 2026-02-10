@@ -5,7 +5,9 @@ body{
     margin-right: 0px;
     padding: 0px 0px 0px 0px;
 }
-
+.aboutme{
+    padding: 10px 10px;
+}
 
 header{
     margin: 0px 0px 0px 0px;
@@ -186,6 +188,7 @@ header img{
 ;
     
 }
+
 
 
 
