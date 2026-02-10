@@ -117,10 +117,13 @@ header img{
     color: white;
 }
 .instagram:hover{
-    border: 10px white;
+    height: 50px;
 }
 .github:hover{
    height: 50px;
+}
+.word:hover{
+    height: 50px;
 }
 .volunteer{
     background: blueviolet;
@@ -173,5 +176,6 @@ header img{
     background: black;
     color: white;
 }
+
 
 
