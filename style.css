@@ -129,6 +129,8 @@ header img{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 40px 10px; /* Added padding so text doesn't hit the screen edges */
+    text-align: center;
    height:auto;
    
 }
@@ -184,5 +186,6 @@ header img{
 ;
     
 }
+
 
 
