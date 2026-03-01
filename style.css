@@ -56,6 +56,8 @@ header img{
     justify-content: center;
     align-self: center;
     flex-wrap: wrap;
+    margin-left: 20px;
+    margin-right: 20px;
     
     text-align: center;
     
@@ -191,6 +193,7 @@ header img{
 ;
     
 }
+
 
 
 
